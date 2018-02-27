@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- Device trees -->
+  <project name="exynos7870/android_device_samsung_j7xelte" path="device/samsung/j7xelte" remote="github" revision="lineage-15.1" />
+  <project name="exynos7870/android_device_samsung_exynos7870-common" path="device/samsung/exynos7870-common" remote="github" revision="lineage-15.1" />
+
+  <!-- Vendor tree -->
+  <project name="exynos7870/android_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-15.1" />
+
+  <!-- Kernel source -->
+  <project name="redking12/android_kernel_samsung_j7xelte" path="kernel/samsung/j7xelte" remote="github" revision="los-15.1" />
+
+  <!-- Common Samsung repo -->
+  <project name="exynos7870/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-15.1" />
+
+  <!-- Older Hardware repos -->
+  <project name="exynos7870/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="github" revision="lineage-15.1" />
+  <project name="exynos7870/android_hardware_samsung_slsi-cm_exynos7870" path="hardware/samsung_slsi-cm/exynos7870" remote="github" revision="lineage-15.1" />
+  <project name="exynos7870/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="github" revision="lineage-15.1" />
+  <project name="exynos7870/android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="github" revision="lineage-15.1" />
+
+  <!-- For Advanced display and doze -->
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-15.1" />
+
+  <!-- Replace Lineage Bionic with custom one -->
+  <remove-project name="LineageOS/android_bionic" />
+  <project name="exynos7870/android_bionic" path="bionic" remote="github" revision="lineage-15.1" />
+
+</manifest>
