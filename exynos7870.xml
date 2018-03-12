@@ -9,7 +9,7 @@
      <remote fetch="https://github.com/Exynos7870/" name="Exynos7870" />
 	    <!-- Device -->
 
-	<project name="device_samsung_exynos7870-common" path="device/samsung/exynos7870-common" remote="Exynos7870" revision="los-15.1" />
+	<project name="device_samsung_exynos7870-common" path="device/samsung/exynos7870-common" remote="Exynos7870" revision="lineage-15.1" />
 
 	    <!-- Hardware -->
 
