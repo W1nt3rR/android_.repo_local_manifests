@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest> 
 <project name="Exynos7870/android_device_samsung_j7velte" path="device/samsung/j7velte" remote="github" revision="lineage-15.1" />
-<project name="lzzy12/universal7870" path="kernel/samsung/exynos7870" remote="github" revision="lineage-15.1" />
+<project name="Darklord1731/android_kernel_samsung_exynos7870" path="kernel/samsung/exynos7870" remote="github" revision="lineage-15.1" />
 </manifest>
