@@ -9,7 +9,7 @@
   <project name="exynos7870/android_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-15.1" />
 
   <!-- Kernel source -->
-  <project name="DarkLord1731/android_kernel_samsung_exynos7870" path="kernel/samsung/exynos7870" remote="github" revision="lineage-15.1" />
+  <project name="exynos7870/android_kernel_samsung_exynos7870" path="kernel/samsung/exynos7870" remote="github" revision="lineage-15.1" />
 
   <!-- Common Samsung repo -->
   <project name="exynos7870/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-15.1" />
@@ -22,9 +22,5 @@
 
   <!-- For Advanced display and doze -->
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-15.1" />
-
-  <!-- Replace Lineage Bionic with custom one -->
-  <remove-project name="LineageOS/android_bionic" />
-  <project name="exynos7870/android_bionic" path="bionic" remote="github" revision="lineage-15.1" />
 
 </manifest>
