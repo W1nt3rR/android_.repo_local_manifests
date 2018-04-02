@@ -2,8 +2,8 @@
 <manifest>
 
   <!-- Device trees -->
-  <project name="exynos7870/android_device_samsung_j7xelte" path="device/samsung/j7xelte" remote="github" revision="lineage-15.1" />
-  <project name="exynos7870/android_device_samsung_exynos7870-common" path="device/samsung/exynos7870-common" remote="github" revision="lineage-15.1" />
+  <project name="W1nt3rR/android_device_samsung_j7xelte" path="device/samsung/j7xelte" remote="github" revision="lineage-15.1" />
+  <project name="W1nt3rR/android_device_samsung_exynos7870-common" path="device/samsung/exynos7870-common" remote="github" revision="lineage-15.1" />
 
   <!-- Vendor tree -->
   <project name="exynos7870/android_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-15.1" />
