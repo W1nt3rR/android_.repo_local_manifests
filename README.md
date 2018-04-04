@@ -1,10 +1,13 @@
 # Manifest for Exynos7870 devices
 
-### Get the common manifest and the manifest for what device you want to build
+#### Get the Common manifest and the manifest for what Device you want to build
+#### Enter the commands where you initialized the repository
 
+---------------------------------------
 
-#### Common Manifest
+### Common Manifest
 	curl --create-dirs -L -o .repo/local_manifests/exynos7870.xml -O -L https://raw.githubusercontent.com/W1nt3rR/android_.repo_local_manifests/los-15.1/exynos7870.xml
+--------------------
 	
 #### j7velte / J7 Nxt
 	curl --create-dirs -L -o .repo/local_manifests/j7velte.xml -O -L https://raw.githubusercontent.com/W1nt3rR/android_.repo_local_manifests/los-15.1/j7velte.xml
