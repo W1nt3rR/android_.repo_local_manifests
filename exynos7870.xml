@@ -14,7 +14,7 @@
 	<project name="android_device_samsung_exynos7870-common" path="device/samsung/exynos7870-common" remote="winter" revision="lineage-15.1" />
 		
 	    <!-- Kernel source -->
-	<project name="exynos7870/android_kernel_samsung_exynos7870" path="kernel/samsung/exynos7870" remote="github" revision="lineage-15.1" />
+	<project name="android_kernel_samsung_exynos7870" path="kernel/samsung/exynos7870" remote="Exynos7870" revision="lineage-15.1" />
 
 	    <!-- Hardware -->
 	<project name="android_hardware_samsung_slsi-cm_exynos7870" path="hardware/samsung_slsi-cm/exynos7870" remote="Exynos7870" revision="lineage-15.1" />
