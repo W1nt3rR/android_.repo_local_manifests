@@ -8,7 +8,7 @@
 	<!-- Remote -->
 	<remote fetch="https://github.com/Exynos7870/" name="Exynos7870" />
 	<remote fetch="https://github.com/W1nt3rR/" name="winter" />
-	<remote fetch="https://github.com/LineageOS/" name"los" />
+	<remote fetch="https://github.com/LineageOS/" name="los" />
 	
 	    <!-- Device -->
 	<project name="android_device_samsung_exynos7870-common" path="device/samsung/exynos7870-common" remote="winter" revision="lineage-15.1" />
