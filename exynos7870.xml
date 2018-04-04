@@ -7,7 +7,7 @@
 
 	<!-- Remote -->
 	<remote fetch="https://github.com/Exynos7870/" name="Exynos7870" />
-	<remote fetch="https://github.com/W1nt3rR/"> name="winter" />
+	<remote fetch="https://github.com/W1nt3rR/" name="winter" />
 	<remote fetch="https://github.com/LineageOS/" name"los" />
 	
 	    <!-- Device -->
