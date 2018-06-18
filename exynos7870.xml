@@ -10,6 +10,7 @@
 	<remote fetch="https://github.com/W1nt3rR/" name="winter" />
 	<remote fetch="https://github.com/LineageOS/" name="los" />
 	<remote fetch="https://github.com/dotOS-Devices/" name="dot" />
+	<remote fetch="https://github.com/redking12/" name="redking" />
 	
 	    <!-- Device -->
 	<project name="android_device_samsung_exynos7870-common" path="device/samsung/exynos7870-common" remote="winter" revision="lineage-15.1" />
