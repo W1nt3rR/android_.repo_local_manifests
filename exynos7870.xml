@@ -13,7 +13,7 @@
 	<remote fetch="https://github.com/redking12/" name="redking" />
 	
 	    <!-- Device -->
-	<project name="android_device_samsung_exynos7870-common" path="device/samsung/exynos7870-common" remote="winter" revision="lineage-15.1" />
+	<project name="android_device_samsung_exynos7870-common" path="device/samsung/exynos7870-common" remote="Exynos7870" revision="lineage-15.1" />
 		
 	    <!-- Kernel source -->
 	<project name="android_kernel_samsung_exynos7870" path="kernel/samsung/exynos7870" remote="Exynos7870" revision="lineage-15.1" />
@@ -26,7 +26,7 @@
 	<project name="android_hardware_samsung" path="hardware/samsung" remote="Exynos7870" revision="lineage-15.1" />
 	
 	    <!-- Vendor -->
-	<!--project name="android_vendor_samsung" path="vendor/samsung" remote="Exynos7870" revision="lineage-15.1" /-->
-	<project name="proprietary_vendor_samsung" path="vendor/samsung" remote="dot" revision="dot-o" />
+	<project name="android_vendor_samsung" path="vendor/samsung" remote="Exynos7870" revision="lineage-15.1" />
+	<!--project name="proprietary_vendor_samsung" path="vendor/samsung" remote="dot" revision="dot-o" /-->
 	
 </manifest>
