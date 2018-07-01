@@ -11,6 +11,7 @@
 	<remote fetch="https://github.com/LineageOS/" name="los" />
 	<remote fetch="https://github.com/dotOS-Devices/" name="dot" />
 	<remote fetch="https://github.com/redking12/" name="redking" />
+	<remote fetch="https://github.com/Oves786" name="oves" />
 	
 	    <!-- Device -->
 	<project name="android_device_samsung_exynos7870-common" path="device/samsung/exynos7870-common" remote="Exynos7870" revision="lineage-15.1" />
@@ -28,5 +29,6 @@
 	    <!-- Vendor -->
 	<project name="android_vendor_samsung" path="vendor/samsung" remote="Exynos7870" revision="lineage-15.1" />
 	<!--project name="proprietary_vendor_samsung" path="vendor/samsung" remote="dot" revision="dot-o" /-->
+	<project name="android_vendor_samsung_j7xelte" path="vendor/samsung/j7xelte" remote="oves" revision="lineage15.1" />
 	
 </manifest>
