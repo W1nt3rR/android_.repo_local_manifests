@@ -12,9 +12,10 @@
 	<remote fetch="https://github.com/dotOS-Devices/" name="dot" />
 	<remote fetch="https://github.com/redking12/" name="redking" />
 	<remote fetch="https://github.com/Oves786" name="oves" />
+	<remote fetch="https://github.com/DarkLord1731/" name="darklord" />
 	
 	    <!-- Device -->
-	<project name="android_device_samsung_exynos7870-common" path="device/samsung/exynos7870-common" remote="Exynos7870" revision="lineage-15.1" />
+	<project name="android_device_samsung_exynos7870-common" path="device/samsung/exynos7870-common" remote="darklord" revision="lineage-15.1" />
 		
 	    <!-- Kernel source -->
 	<project name="android_kernel_samsung_exynos7870" path="kernel/samsung/exynos7870" remote="Exynos7870" revision="lineage-15.1" />
