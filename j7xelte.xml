@@ -2,9 +2,9 @@
 <manifest>
 
   <!-- Device tree -->
-  <project name="android_device_samsung_j7xelte" path="device/samsung/j7xelte" remote="Exynos7870" revision="lineage-15.1" />
-
-  <!-- For Advanced display and doze -->
-  <!--project name="android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="los" revision="lineage-15.1" /-->
+  <project name="android_device_samsung_j7xelte" path="device/samsung/j7xelte" remote="winter" revision="lineage-15.1" />
+  
+  <!-- Vendor tree -->
+ 	<project name="android_vendor_samsung_j7xelte" path="vendor/samsung/j7xelte" remote="winter" revision="lineage-15.1" />
 
 </manifest>
