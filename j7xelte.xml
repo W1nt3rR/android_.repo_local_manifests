@@ -5,6 +5,6 @@
 	<project name="android_device_samsung_j7xelte" path="device/samsung/j7xelte" remote="winter" revision="lineage-15.1" />
   
 	<!-- Vendor tree -->
-	<project name="android_vendor_samsung_j7xelte" path="vendor/samsung/j7xelte" remote="winter" revision="lineage-15.1" />
+	<project name="proprietary_vendor_samsung_j7xelte" path="vendor/samsung/j7xelte" remote="winter" revision="lineage-15.1" />
 
 </manifest>
