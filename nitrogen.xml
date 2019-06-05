@@ -3,7 +3,7 @@
 
   <!-- Remotes -->
 	<remote fetch="https://github.com/W1nt3rR/" name="winter" />
-	<remote fetch="https://github.com/LineageOS/" name="los" />
+	<!--remote fetch="https://github.com/LineageOS/" name="los" /-->
   <remote fetch="https://github.com/Black-Seraph/" name="seraph" />
   
   <!-- For Advanced display and doze -->
@@ -16,7 +16,7 @@
 	<project name="device_xiaomi_nitrogen" path="device/xiaomi/nitrogen" remote="winter" revision="pie" />
   
 	<!-- Vendor tree -->
-	<project name="proprietary_vendor_xiaomi" path="vendor/xiaomi/nitrogen" remote="seraph" revision="pie" />
+	<project name="proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="seraph" revision="pie" />
   
   <!-- MIUI Camera -->
   <project name="vendor_MiuiCamera" path="vendor/MiuiCamera" remote="seraph" revision="pie-nitrogen" />
