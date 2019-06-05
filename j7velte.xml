@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest> 
-  <project name="android_device_samsung_j7velte" path="device/samsung/j7velte" remote="Exynos7870" revision="lineage-15.1" />
-</manifest>
