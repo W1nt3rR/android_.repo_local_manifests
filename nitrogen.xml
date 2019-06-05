@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- Remotes -->
+	<remote fetch="https://github.com/W1nt3rR/" name="winter" />
+	<remote fetch="https://github.com/LineageOS/" name="los" />
+  <remote fetch="https://github.com/Black-Seraph/" name="seraph" />
+  
+  <!-- For Advanced display and doze -->
+  <project name="android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="los" revision="lineage-16.0" />
+
+  <!-- Kernel -->
+  <project name="kernel_xiaomi_nitrogen" path="kernel/xiaomi/nitrogen" remote="seraph" revision="MIUI-OC-P" />
+
+	<!-- Device tree -->
+	<project name="device_xiaomi_nitrogen" path="device/xiaomi/nitrogen" remote="winter" revision="pie" />
+  
+	<!-- Vendor tree -->
+	<project name="proprietary_vendor_xiaomi" path="vendor/xiaomi/nitrogen" remote="seraph" revision="pie" />
+  
+  <!-- MIUI Camera -->
+  <project name="vendor_MiuiCamera" path="vendor/MiuiCamera" remote="seraph" revision="pie-nitrogen" />
+
+</manifest>
