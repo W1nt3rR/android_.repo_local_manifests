@@ -12,10 +12,10 @@
 	<project name="rr-mario/msm-4.4" path="kernel/xiaomi/nitrogen" remote="github" revision="pie" />
 
 	<!-- Device tree -->
-	<project name="device_xiaomi_nitrogen" path="device/xiaomi/nitrogen" remote="winter" revision="pie" />
+	<project name="device_xiaomi_nitrogen" path="device/xiaomi/nitrogen" remote="winter" revision="pie-havoc" />
   
 	<!-- Vendor tree -->
-	<project name="proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="seraph" revision="pie" />
+	<project name="vendor_xiaomi_nitrogen" path="vendor/xiaomi/nitrogen" remote="seraph" revision="pie" />
   
 	<!-- MIUI Camera -->
 	<project name="vendor_MiuiCamera" path="vendor/MiuiCamera" remote="seraph" revision="pie-nitrogen" />
