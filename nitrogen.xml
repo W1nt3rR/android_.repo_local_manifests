@@ -9,7 +9,7 @@
 	<project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-16.0" />
 
 	<!-- Kernel -->
-	<project name="rr-mario/msm-4.4" path="kernel/xiaomi/nitrogen" remote="github" revision="pie" />
+	<project name="rr-mario/msm-4.4" path="kernel/xiaomi/nitrogen" remote="github" revision="stable" />
 
 	<!-- Device tree -->
 	<project name="device_xiaomi_nitrogen" path="device/xiaomi/nitrogen" remote="seraph" revision="pie-lineage" />
