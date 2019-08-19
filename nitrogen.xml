@@ -12,7 +12,7 @@
 	<project name="rr-mario/msm-4.4" path="kernel/xiaomi/nitrogen" remote="github" revision="stable" />
 
 	<!-- Device tree -->
-	<project name="device_xiaomi_nitrogen" path="device/xiaomi/nitrogen" remote="seraph" revision="pie-lineage" />
+	<project name="device_xiaomi_nitrogen" path="device/xiaomi/nitrogen" remote="seraph" revision="pie-aosip" />
   
 	<!-- Vendor tree -->
 	<project name="vendor_xiaomi_nitrogen" path="vendor/xiaomi/nitrogen" remote="seraph" revision="pie" />
